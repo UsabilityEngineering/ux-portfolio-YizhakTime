@@ -1,1 +1,3 @@
-# First Journal Entry...
+# EZ Aroma Rice Cooker
+Coming from a Hispanic background, food is a large part of my culture, especially rice. I often make rice in a pot which requires careful preparation, attention and technique. Although I gained more experience in cooking, rice is always a sore spot for me, since I am not consistent when making it. Occasionally, I add too much water, leaving the rice mushy. Sometimes, I forget to check the rice, making it cook longer than needed, also making it mushy. Lastly, I have forgotten to add more butter, making the rice stick to the bottom of the pan. But, since moving in with my roommate, I have used his rice cooker and it has transformed my cooking skills. 
+
