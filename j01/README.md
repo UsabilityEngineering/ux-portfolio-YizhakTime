@@ -5,5 +5,7 @@ I come from a Hispanic family where food is a large part of my culture, especial
 
 But, since moving in with my roommate, I noticed he brought his rice cooker which he allowed me to use. I was skeptical at first because I am accustomed to making rice in a pot, however, one day, I decided to try it out. I noticed that the cooker came with a bowl that has measurements on the side, measured in milliliters that are divided into 4 separate sections. The cooker had an interface with a list of buttons for white rice, brown rice, warm and a power button. All I had to do was plug into the outlet and press any of the buttons. 
 
+<img alt="Rice cooker button options" src="../assets/cooker_buttons.jpg"/>
+
 After washing my rice thoroughly, I added the rice to the bowl and added exactly 2 cups of water to the bowl. Then, I placed the bowl onto the cooker and I pressed the power button and pressed the white rice option and around 15 to 20 minutes, my rice was done. What amazed me was that after I cooked my tikki masala, and made mango juice, I did not have to check up on the rice cooker at all. My rice came slightly short of perfect, it had a nice fragrance and aromatic smell and the texture was silky and smooth. 
 
