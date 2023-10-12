@@ -1,7 +1,7 @@
 # EZ Aroma Rice Cooker
 Yizhak Cohen - 10/9/23 
 
-I come from a Hispanic family where food is a large part of my culture, especially rice. I often make rice in a pot, which requires careful preparation, attention, and technique. Although I gained more experience in cooking, rice is always a sore spot for me since I am not consistent when making it. Occasionally, I add too much water, leaving the rice mushy. Sometimes, I forget to check the rice, making it cook longer when it turns to mush. Lastly, sometimes I forgot to add more butter, making the rice stick to the bottom of the pan. Whilst the design is simple and is a prime example of natural mapping, it requires finesse to make rice steam correctly. 
+I come from a Hispanic family where food is a large part of my culture, especially rice. I often make rice in a pot, which requires careful preparation, attention, and technique. Although I gained more experience in cooking, rice is always a sore spot for me since I am not consistent when making it. Occasionally, I add too much water, leaving the rice mushy. Sometimes, I forget to check the rice, making it cook longer when it turns to mush. Lastly, sometimes I forgot to add more butter, making the rice stick to the bottom of the pan. Whilst the pan is simple and is a prime example of natural mapping, where you just need to turn on the burner and place your cooking spray and rice into the pot, you need a certain degree of finesse to make rice correctly. 
 
 But, since moving in with my roommate, I have used his rice cooker, which has transformed my cooking skills. Although the design is simple  
 
