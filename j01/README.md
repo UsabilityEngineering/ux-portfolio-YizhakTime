@@ -7,7 +7,7 @@ I come from a Latin family where food is a large part of my culture, especially 
 
 But, since moving in with my roommate, I noticed he brought his rice cooker, which he allowed me to use. I was hesitant because I am accustomed to making rice in a pot. One day, I decided to try it out. I noticed that the cooker came with a separate bowl, and that bowl had measurements on the side, measured in milliliters with four sections. The rice cooker had an interface with a list of buttons for white rice, brown rice, warm, and a power button. All I had to do was plug into the outlet and press any button.
 
-<img alt="Buttons" src="../assets/cooker_buttons.jpg"/>
+<img alt="Buttons" src="../assets/cooker_buttons.jpg" width="400" height="350"/>
 
 The layout (the buttons) was **learnable** and had a meaning behind it (*purpose*). There are different options for different kinds of rice. So when I wanted white rice, I could press the white rice button.
 
