@@ -7,5 +7,6 @@ But, since moving in with my roommate, I noticed he brought his rice cooker whic
 
 <img alt="Bowl" src="../assets/bowl.jpg"/>
 
-After washing my rice thoroughly, I added the rice to the bowl and added exactly 2 cups of water to the bowl. Then, I placed the bowl onto the cooker and I pressed the power button and pressed the white rice option and around 15 to 20 minutes, my rice was done. What amazed me was that after I cooked my tikki masala, and made mango juice, I did not have to check up on the rice cooker at all. My rice came slightly short of perfect, it had a nice fragrance and aromatic smell and the texture was silky and smooth. 
+From layout (the buttons) was **learnable** and had a meaning behind it (*purpose*). Not all the rice is the same, so whenever I wanted white rice, I could just press the white rice button. Beforehand, I washed my rice thoroughly and added the rice to the bowl and added exactly 2 cups of water to the bowl. Then, I placed the bowl onto the cooker and I pressed the power button and pressed the white rice option and around 15 to 20 minutes, my rice was done. What amazed me was that after I cooked my tikki masala, and made mango juice, I did not have to check up on the rice cooker at all. My rice came slightly short of perfect, it had a nice fragrance and aromatic smell and the texture was silky and smooth. 
 
+From this experience, I can say this rice cooker matched my **mental model** of what I expected since the cooker looks like a pot and pots can be used to steam food. 
