@@ -1,9 +1,9 @@
 # EZ Aroma Rice Cooker
-Yizhak Cohen - 10/9/23 
+Yizhak Cohen - 10/13/23 
 
 I come from a Latin family where food is a large part of my culture, especially rice. I often make rice in a pot, which requires careful preparation, attention, and technique. Although I gained more experience in cooking, rice is always a sore spot for me since I am not consistent when making it. Occasionally, I add too much water, leaving the rice mushy. Sometimes, I forget to check the rice, making it cook longer when it turns to mush. Lastly, sometimes I forgot to add more butter, making the rice stick to the bottom of the pan. The pan is an example of **natural mapping**, where there is a clear relationship between the controls and its functions. With a pan, you just need to turn on the burner and place your cooking spray and rice into the pot, you need a certain degree of finesse to make rice correctly. The downside is that the most common mistakes are often irreversible, you cannot unburn rice or “un-mush” mushy rice. 
 
-<img alt="Bowl" src="../assets/bowl.jpg"/>
+<img alt="Bowl" src="../assets/bowl.jpg" width="400" height = "500"/>
 
 But, since moving in with my roommate, I noticed he brought his rice cooker, which he allowed me to use. I was hesitant because I am accustomed to making rice in a pot. One day, I decided to try it out. I noticed that the cooker came with a separate bowl, and that bowl had measurements on the side, measured in milliliters with four sections. The rice cooker had an interface with a list of buttons for white rice, brown rice, warm, and a power button. All I had to do was plug into the outlet and press any button.
 

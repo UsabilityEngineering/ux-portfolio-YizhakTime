@@ -4,7 +4,7 @@ Hi, I'm Yizhak and I'm a computer science major and this is my current UX portfo
 
 ## UX Team Project
 
-Coming soon.
+[BilliardsTrainer](https://github.com/ChicoState/UX-BilliardsTrainer/tree/main)
 
 ## UX Journal
 
