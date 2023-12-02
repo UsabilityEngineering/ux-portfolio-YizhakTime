@@ -1,16 +1,10 @@
-# EZ Aroma Rice Cooker
-Yizhak Cohen - 10/13/23 
+# My experience with wells fargo mobile 
+Yizhak Cohen - 12/2/23
 
-I come from a Latin family where food is a large part of my culture, especially rice. I often make rice in a pot, which requires careful preparation, attention, and technique. Although I gained more experience in cooking, rice is always a sore spot for me since I am not consistent when making it. Occasionally, I add too much water, leaving the rice mushy. Sometimes, I forget to check the rice, making it cook longer when it turns to mush. Lastly, sometimes I forgot to add more butter, making the rice stick to the bottom of the pan. The pan is an example of **natural mapping**, where there is a clear relationship between the controls and its functions. With a pan, you just need to turn on the burner and place your cooking spray and rice into the pot, you need a certain degree of finesse to make rice correctly. The downside is that the most common mistakes are often irreversible, you cannot unburn rice or “un-mush” mushy rice. 
+I frequently use the Wells Fargo mobile app to check my bank statements, transfer money, check my balance, or receive direct deposits. It has always been convenient for me as I can find my information on the go, and I do not need to travel to the bank to find my routing number, for example. 
+
+
 
 <img alt="Bowl" src="../assets/bowl.jpg" width="300" height = "200"/>
 
-But, since moving in with my roommate, I noticed he brought his rice cooker, which he allowed me to use. I was hesitant because I am accustomed to making rice in a pot. One day, I decided to try it out. I noticed that the cooker came with a separate bowl, and that bowl had measurements on the side, measured in milliliters with four sections. The rice cooker had an interface with a list of buttons for white rice, brown rice, warm, and a power button. All I had to do was plug into the outlet and press any button.
-
 <img alt="Buttons" src="../assets/cooker_buttons.jpg" width="400" height="350"/>
-
-The layout (the buttons) was **learnable** and had a meaning behind it (*purpose*). There are different options for different kinds of rice. So when I wanted white rice, I could press the white rice button.
-
-To start, I washed my rice thoroughly, added the rice to the bowl, and added exactly 2 cups of water. Then, I placed the bowl onto the rice cooker, pressed the power button, and pressed the white rice option. Around 15 to 20 minutes, my rice was done cooking. What amazed me was that after I cooked my tikki masala and made mango juice, I did not have to check up on the rice cooker. My rice came slightly short of perfect, it had a very aromatic smell, and the texture was silky and smooth. Furthermore, when the rice was close to being done, the rice cooker had timer of how many minutes until the rice was done. This made it easy for me to know how long I would have to wait unlike my traditional method which required me to watch the rice all the time. Timing it would have been difficult since cooking times vary, but the rice cooker made it simple. 
-
-From this experience, I can say this rice cooker matched my **mental model** of what I expected since the rice cooker looks like a pot and pots steam food.  What I loved was that I did not need to keep watch on the rice or add any spray to it, except for water. The design was **error tolerant** as each button had a label, so there was no way I could end up pressing the wrong button. Nevertheless, there is a plus and a minus button, which implies add or subtract. I am unsure whether both buttons are to add or subtract temperature, until I pressed these two buttons. However, both buttons are used to modify the cooking time, so it did not match my **conceptual model** of how I expected those two buttons to work.
