@@ -8,4 +8,4 @@ Hi, I'm Yizhak and I'm a computer science major and this is my current UX portfo
 
 ## UX Journal
 
-[EZ Aroma rice cooker](j01/)
+[EZ Aroma rice cooker (UPDATED)](j02/)
